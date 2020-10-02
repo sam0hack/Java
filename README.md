@@ -9,7 +9,7 @@ For contributor : Please use clean commented code
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
@@ -159,6 +159,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Roshanpaswan"><img src="https://avatars2.githubusercontent.com/u/72060461?v=4" width="100px;" alt=""/><br /><sub><b>Roshan Paswan</b></sub></a><br /><a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Code">💻</a> <a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://shreyakapoor-portfolio.netlify.com"><img src="https://avatars1.githubusercontent.com/u/31164665?v=4" width="100px;" alt=""/><br /><sub><b>shreya kapoor</b></sub></a><br /><a href="#infra-shreyakapoor08" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/sam0hack/Java/commits?author=shreyakapoor08" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/Mudrika09"><img src="https://avatars0.githubusercontent.com/u/48450992?v=4" width="100px;" alt=""/><br /><sub><b>Mudrika09</b></sub></a><br /><a href="#infra-Mudrika09" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/sam0hack/Java/commits?author=Mudrika09" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=Mudrika09" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/SATAKSHI08"><img src="https://avatars2.githubusercontent.com/u/56965113?v=4" width="100px;" alt=""/><br /><sub><b>zn08</b></sub></a><br /><a href="https://github.com/sam0hack/Java/commits?author=SATAKSHI08" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=SATAKSHI08" title="Code">💻</a></td>
   </tr>
 </table>
 
