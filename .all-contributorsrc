@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Roshanpaswan",
+      "name": "Roshan Paswan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/72060461?v=4",
+      "profile": "https://github.com/Roshanpaswan",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Java",
+  "projectOwner": "sam0hack",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
