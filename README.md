@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
@@ -131,4 +132,35 @@ $ git push -u origin Folder_Name
 
 Finally, go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
+
+Java
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
+My Java Programs Lib
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+ all-contributors/add-Roshanpaswan
+ <td align="center"><a href="https://github.com/Roshanpaswan"><img src="https://avatars2.githubusercontent.com/u/72060461?v=4" width="100px;" alt=""/><br /><sub><b>Roshan Paswan</b></sub></a><br /><a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Code">💻</a></td>
+
+<td align="center"><a href="https://shreyakapoor-portfolio.netlify.com"><img src="https://avatars1.githubusercontent.com/u/31164665?v=4" width="100px;" alt=""/><br /><sub><b>shreya kapoor</b></sub></a><br /><a href="#infra-shreyakapoor08" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/sam0hack/Java/commits?author=shreyakapoor08" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=shreyakapoor08" title="Code">💻</a></td>
+
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
