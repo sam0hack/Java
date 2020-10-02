@@ -16,9 +16,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
  all-contributors/add-Roshanpaswan
-    <td align="center"><a href="https://github.com/Roshanpaswan"><img src="https://avatars2.githubusercontent.com/u/72060461?v=4" width="100px;" alt=""/><br /><sub><b>Roshan Paswan</b></sub></a><br /><a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Code">💻</a></td>
+ <td align="center"><a href="https://github.com/Roshanpaswan"><img src="https://avatars2.githubusercontent.com/u/72060461?v=4" width="100px;" alt=""/><br /><sub><b>Roshan Paswan</b></sub></a><br /><a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=Roshanpaswan" title="Code">💻</a></td>
 
-    <td align="center"><a href="https://shreyakapoor-portfolio.netlify.com"><img src="https://avatars1.githubusercontent.com/u/31164665?v=4" width="100px;" alt=""/><br /><sub><b>shreya kapoor</b></sub></a><br /><a href="#infra-shreyakapoor08" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/sam0hack/Java/commits?author=shreyakapoor08" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=shreyakapoor08" title="Code">💻</a></td>
+<td align="center"><a href="https://shreyakapoor-portfolio.netlify.com"><img src="https://avatars1.githubusercontent.com/u/31164665?v=4" width="100px;" alt=""/><br /><sub><b>shreya kapoor</b></sub></a><br /><a href="#infra-shreyakapoor08" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/sam0hack/Java/commits?author=shreyakapoor08" title="Tests">⚠️</a> <a href="https://github.com/sam0hack/Java/commits?author=shreyakapoor08" title="Code">💻</a></td>
 
   </tr>
 </table>
