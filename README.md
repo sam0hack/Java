@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+Simple programs on Java
+This repository is for beginners who wants to learn in code in java
+Here you can finx some quick simple but cool java programs.
+
+For contributor : Please use clean commented code 
+
+
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
@@ -133,13 +139,13 @@ $ git push -u origin Folder_Name
 Finally, go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
-Java
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
-My Java Programs Lib
+
 
 ## Contributors ✨
 
